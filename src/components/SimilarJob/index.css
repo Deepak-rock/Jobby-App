@@ -1,0 +1,50 @@
+.similar-job-item {
+    background-color: #272727;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    max-width: 300px;
+}
+.simiar-logo {
+    width: 60px;
+}
+.simiar-title {
+    color: #f1f5f9;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 20px;
+}
+.simiar-star-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin: 10px 0
+}
+.simiar-star {
+    color: #fbbf24;
+    font-size: 20px;
+}
+.simiar-rating {
+    color: #f1f5f9;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+.location,.employment{
+    color: #f1f5f9;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+.similar-des {
+    align-self: flex-start;
+    padding: 20px 0;
+    color: #f8fafc;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 16px;
+}
+.similar-job-des {
+    color: #f8fafc;
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 0 0 20px 0;
+}
