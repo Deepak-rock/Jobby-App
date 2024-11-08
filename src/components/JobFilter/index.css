@@ -1,27 +1,31 @@
 .job-filter-container {
-    align-self: flex-start;
-    width: 100%;
+  align-self: flex-start;
+  width: 100%;
 }
-.employment-types-container,.salary-ranges-container {
-    padding: 20px 0;
-    color: #ffffff;
-    align-self: flex-start;
+.employment-types-container,
+.salary-ranges-container {
+  padding: 20px 0;
+  color: #ffffff;
+  align-self: flex-start;
 }
-.employment-types-List,.salary-ranges-List {
-    list-style-type: none;
-    padding: 0;
+.employment-types-List,
+.salary-ranges-List {
+  list-style-type: none;
+  padding: 0;
 }
 .horizontal-line-salary {
-    width: 100%;
-    border: 1px solid #475569;
+  width: 100%;
+  border: 1px solid #475569;
 }
-.employment-types,.salary-ranges {
-    padding: 0 0 15px 0;
+.employment-types,
+.salary-ranges {
+  padding: 0 0 15px 0;
 }
-.employment-types-item,.salary-ranges-item {
-    padding: 10px 0;
+.employment-types-item,
+.salary-ranges-item {
+  padding: 10px 0;
 }
 .label {
-    padding: 20px;
-    cursor: pointer;
+  padding: 20px;
+  cursor: pointer;
 }
